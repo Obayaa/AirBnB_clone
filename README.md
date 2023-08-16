@@ -29,6 +29,6 @@ $
 ```
 
 ### Contact Info:
-#### Git: k.maarouri11@gmail.com
+#### email: k.maarouri11@gmail.com
 
 #### Git: Obayaa
