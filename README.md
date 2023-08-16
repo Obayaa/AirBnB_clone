@@ -29,6 +29,6 @@ $
 ```
 
 ### Contact Info:
-#### Git: ChristianCampos-55
+#### Git: k.maarouri11@gmail.com
 
-#### Git: danielj32
+#### Git: Obayaa
